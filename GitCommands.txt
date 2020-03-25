@@ -43,6 +43,9 @@ git push -u origin branchName
 //remove and add userEmail
 git config --global --replace-all user.email "new@mail.com"
 
+//remove and add userName
+git config --global --replace-all user.name "NewName"
+
 
 
 
