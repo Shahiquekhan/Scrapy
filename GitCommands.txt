@@ -40,6 +40,9 @@ cat ~/.ssh/id_rsa.pub
 
 git push -u origin branchName
 
+//remove and add userEmail
+git config --global --replace-all user.email "new@mail.com"
+
 
 
 
